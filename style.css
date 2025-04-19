@@ -1,0 +1,32 @@
+
+body {
+    font-size: 17px;
+    line-height: 1.6;
+    margin-bottom: 100px;
+}
+h1 { font-size: 4.902rem; }
+h2 { font-size: 3.157rem; }
+h3 { font-size: 2.369rem; }
+h4 { font-size: 1.777rem; }
+em {
+    font-style: italic;
+    font-weight: 700;
+}
+a {
+    text-decoration: underline;
+    text-decoration-thickness: 0.15rem;
+    text-decoration-color: #36ABFD;
+}
+a:hover, .hover {
+    color: #2C8BD0;
+    text-decoration: none;
+}
+code {
+    background-color: #f9f9f9;
+    padding: 10px;
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+.specs {
+    font-size: 0.9rem;
+}
